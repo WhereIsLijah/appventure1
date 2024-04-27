@@ -1,2 +1,2 @@
-# appventure1
+# appventure
 Learning how to use Python's Django framework
